@@ -9,7 +9,7 @@ from matplotlib.backends.backend_agg import FigureCanvasAgg as FigureCanvas
 from matplotlib.figure import Figure
 
 def to_base64(fig):
-    # Convert plot to PNG image
+    # Convert graph-plot to PNG image
     pngImage = io.BytesIO()
     FigureCanvas(fig).print_png(pngImage)
     # Encode PNG image to base64 string
