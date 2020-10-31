@@ -125,7 +125,7 @@ Knapsack01 is already deployed on Heroku, use can access it here : [Knapsack01](
 
 ## Authors
 
-* **Nishant Pandey** - *Initial work* - [uenxh](https://github.com/unexh)
+* **Sehajbir Singh** - *Initial work* - [SehajbirThind](https://github.com/SehajbirThind)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
